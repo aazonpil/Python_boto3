@@ -1,0 +1,5 @@
+AmiLaunchIndex,InstanceId,ImageId,Tags
+0,i-0894ad9c37c09d0f3,ami-0a3c3a20c09d6f377,{'Name': 'TERRAFORM-EC2'}
+0,i-078aff2b6a47b3ca4,ami-0c101f26f147fa7fd,{'Name': 'boto3-Arnaud'}
+1,i-06ff449068fb4d508,ami-0c101f26f147fa7fd,{'Name': 'boto3-calvin'}
+2,i-0e0b3f3db7aaba59d,ami-0c101f26f147fa7fd,{'Name': 'boto3-paulin'}
